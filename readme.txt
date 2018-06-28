@@ -1,0 +1,1 @@
+A simple message exchange application using SpringMVC, Spring security, Maven and Hibernate
